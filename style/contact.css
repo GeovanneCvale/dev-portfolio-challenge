@@ -1,7 +1,7 @@
 #contact{
     width: 100vw;
     height: 100vh;
-    background-image: url(/assets/Imgs/Background_Contacts.png);
+    background-image: url(../assets/Imgs/Background_Contacts.png);
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -48,28 +48,28 @@
 
             #logo-linkedin{
                 display: inline-block;
-                background-image: url(/assets/Icons/contact/LinkedinLogo.svg);
+                background-image: url(../assets/Icons/contact/LinkedinLogo.svg);
                 width: 32px;
                 height: 28px;
             };
 
             #logo-instagram{
                 display: inline-block;
-                background-image: url(/assets/Icons/contact/InstagramLogo.svg);
+                background-image: url(../assets/Icons/contact/InstagramLogo.svg);
                 width: 32px;
                 height: 28px;
             };
 
             #logo-github{
                 display: inline-block;
-                background-image: url(/assets/Icons/contact/GithubLogo.svg);
+                background-image: url(../assets/Icons/contact/GithubLogo.svg);
                 width: 32px;
                 height: 28px;
             };
 
             #logo-email{
                 display: inline-block;
-                background-image: url(/assets/Icons/contact/Vector.svg); 
+                background-image: url(../assets/Icons/contact/Vector.svg); 
                 width: 30px;
                 height: 18px;
             };
@@ -88,7 +88,7 @@
         border: 2px solid var(--blue);
         cursor: pointer;
         #logo-linkedin:nth-child(1){
-            background-image:url(/assets/Icons/contact/LinkedinLogoHover.svg);
+            background-image:url(../assets/Icons/contact/LinkedinLogoHover.svg);
             width: 32px;
             height: 28px;
         }
@@ -98,7 +98,7 @@
         border: 2px solid var(--blue);
         cursor: pointer;
         #logo-instagram:nth-child(1){
-            background-image:url(/assets/Icons/contact/InstagramLogoHover.svg);
+            background-image:url(../assets/Icons/contact/InstagramLogoHover.svg);
             width: 32px;
             height: 28px;
         }
@@ -108,7 +108,7 @@
         border: 2px solid var(--blue);
         cursor: pointer;
         #logo-github:nth-child(1){
-            background-image:url(/assets/Icons/contact/GithubLogoHover.svg);
+            background-image:url(../assets/Icons/contact/GithubLogoHover.svg);
             width: 32px;
             height: 28px;
         }
@@ -118,7 +118,7 @@
         border: 2px solid var(--blue);
         cursor: pointer;
         #logo-email:nth-child(1){
-            background-image:url(/assets/Icons/contact/VectorHover.svg);
+            background-image:url(../assets/Icons/contact/VectorHover.svg);
             width: 30px;
             height: 18px;
         }
